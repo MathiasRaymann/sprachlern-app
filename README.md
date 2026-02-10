@@ -2,7 +2,8 @@
 
 > Eine interaktive Anwendung zum effektiven Lernen von Vokabeln und Sprachen.
 
-<img width="805" height="632" alt="Bildschirmfoto 2026-02-10 um 14 39 35" src="https://github.com/user-attachments/assets/d35187b5-50f7-4c19-8810-0c0583baeebf" />
+<img width="807" height="638" alt="Bildschirmfoto 2026-02-10 um 15 09 06" src="https://github.com/user-attachments/assets/9b598938-a474-4951-bf70-43740d9dc337" />
+
 
 ## 📖 Über das Projekt
 Dieses Projekt ist eine Vollständige Full-Stack-Anwendung, die Nutzern hilft, neue Sprachen zu lernen. Sie ermöglicht das Verwalten von Vokabeln, Abfragen des Wissensstands und Speichern des Lernfortschritts.
