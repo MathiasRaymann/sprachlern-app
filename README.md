@@ -2,9 +2,7 @@
 
 > Eine interaktive Anwendung zum effektiven Lernen von Vokabeln und Sprachen.
 
-(https://via.placeholder.com/800x200?text=Hier+Screenshot+einf%C3%BCgen)<img width="805" height="632" alt="Bildschirmfoto 2026-02-10 um 14 39 35" src="https://github.com/user-attachments/assets/d35187b5-50f7-4c19-8810-0c0583baeebf" />
-
-*(Tipp: Ziehe einen Screenshot deiner App einfach per Drag & Drop in dieses Textfeld, um ihn anzuzeigen!)*
+<img width="805" height="632" alt="Bildschirmfoto 2026-02-10 um 14 39 35" src="https://github.com/user-attachments/assets/d35187b5-50f7-4c19-8810-0c0583baeebf" />
 
 ## 📖 Über das Projekt
 Dieses Projekt ist eine Vollständige Full-Stack-Anwendung, die Nutzern hilft, neue Sprachen zu lernen. Sie ermöglicht das Verwalten von Vokabeln, Abfragen des Wissensstands und Speichern des Lernfortschritts.
@@ -64,7 +62,7 @@ Voraussetzungen:
 
 **Mathias Raymann**
 
-* Mein GitHub Profil(https://github.com/MathiasRaymann)
+* Mein GitHub Profil (https://github.com/MathiasRaymann)
 
 ---
 
