@@ -1,0 +1,1 @@
+ /Users/mathias/Documents/Programmierung/Java/learning_app_frontend/.dart_tool/flutter_build/9e54b850456fbdb59eb68d69bb3333bf/native_assets.yaml: 

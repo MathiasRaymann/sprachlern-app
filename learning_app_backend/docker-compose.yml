@@ -1,0 +1,17 @@
+version: '3.8'
+services:
+  db:
+    image: postgres:15
+    container_name: postgres_db
+    environment:
+      POSTGRES_DB: exercises
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: Gh45?aS!NMbv
+    ports:
+      - "5433:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data  # <--- DER RETTER!
+    restart: always
+
+volumes:
+  postgres_data:  # <--- Hier wird das "Schließfach" definiert
